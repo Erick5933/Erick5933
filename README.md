@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Erick%20Chac%C3%B3n&fontSize=52&fontColor=e6edf3&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%26%20AI%20Systems&descSize=16&descColor=8b949e&descAlignY=62" width="100%" alt="Header"/>
+
 
 <div align="center">
 
